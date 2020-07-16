@@ -1,6 +1,6 @@
 package com.company;
 
-public class task6 {
+public class Task6 {
 
   public static void main(String[] args) {
     //  Знайти в масиві число яке повторюється найчастіше.

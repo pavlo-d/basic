@@ -1,6 +1,6 @@
 package com.company;
 
-public class task11 {
+public class Task11 {
 
   public static void main(String[] args) {
     // Дано масив В розмірності n*m. Визначити, чи є в матриці стовбці які складаються з нульових

@@ -1,6 +1,6 @@
 package com.company;
 
-public class task10 {
+public class Task10 {
 
   public static void main(String[] args) {
     //   Дано масив А[5,5]. Отримати масив В(5) за наступними правилами: В(і)=1 якщо в і-ому рядку

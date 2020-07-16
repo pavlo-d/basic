@@ -1,6 +1,6 @@
 package com.company;
 
-public class task5 {
+public class Task5 {
 
   public static void main(String[] args) {
     //  Здійнити дзеркальний переворот елементів в масиві ([1, 2, 3, 4] -> [4, 3, 2, 1]).

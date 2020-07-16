@@ -1,6 +1,6 @@
 package com.company;
 
-public class task4 {
+public class Task4 {
 
   public static void main(String[] args) {
     // Знайти в массиві чисел елементі с найбільшим (max) та найменшим (min) значеннями. Вивести ці

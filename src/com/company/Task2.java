@@ -1,6 +1,6 @@
 package com.company;
 
-public class task2 {
+public class Task2 {
 
   public static void main(String[] args) {
     // Вивести на екран всі числа от 1 до 100, які діляться на 5 без залишку.

@@ -1,6 +1,6 @@
 package com.company;
 
-public class task8 {
+public class Task8 {
 
   public static void main(String[] args) {
     //  Написати програму підрахунку числа компонент вектора Х=(х1, х2, ...., х17), які

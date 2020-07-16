@@ -1,6 +1,6 @@
 package com.company;
 
-public class task3 {
+public class Task3 {
 
   public static void main(String[] args) {
     // Заповнити масив short типу числами від 100 до 0.

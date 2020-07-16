@@ -1,6 +1,6 @@
 package com.company;
 
-public class task7 {
+public class Task7 {
 
   public static void main(String[] args) {
     //  Відомо, що у заданого вектора Х=(х1, х2, ...., х8) є, мінімум одна від’ємна компонента.

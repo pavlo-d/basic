@@ -1,6 +1,6 @@
 package com.company;
 
-public class task1 {
+public class Task1 {
 
   public static void main(String[] args) {
     // Вивести на екран числа від -10 до 25 за допомогою всіх відомих циклів.

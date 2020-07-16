@@ -1,6 +1,6 @@
 package com.company;
 
-public class task9 {
+public class Task9 {
 
   public static void main(String[] args) {
     //  Якщо в масиві А(20) є елемент рівний квадрату останнього елемента, то всі елементи
